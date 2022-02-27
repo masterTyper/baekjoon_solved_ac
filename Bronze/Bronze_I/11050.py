@@ -11,4 +11,4 @@ N_fac = factorial(N)
 K_fac = factorial(K)
 NK_fac = factorial(N - K)
 
-print(int(N_fac/(K_fac * NK_fac)))
+print(int(N_fac / (K_fac * NK_fac)))
