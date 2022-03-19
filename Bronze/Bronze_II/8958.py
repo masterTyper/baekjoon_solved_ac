@@ -14,3 +14,4 @@ for i in range(N):
     ox = input()
     question = list(filter(None, ox.split('X')))
     print(summation(question))
+
